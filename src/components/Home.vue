@@ -328,9 +328,10 @@
 
 <style scoped>
 
+  div{}
+
 #box{
   background: #F6F6F6;
-
 }
   .head{
     width: 100%;
